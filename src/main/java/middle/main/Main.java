@@ -14,4 +14,8 @@ public class Main {
     private static void add() {
         System.out.println("add...");
     }
+
+    private static void master() {
+        System.out.println("master...");
+    }
 }
