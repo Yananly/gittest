@@ -8,6 +8,10 @@ public class Main {
         System.out.println("start...");
         System.out.println("end...");
         System.out.println("start 1...");
-        System.out.println("end 1...");
+        add();
+    }
+
+    private static void add() {
+        System.out.println("add...");
     }
 }
