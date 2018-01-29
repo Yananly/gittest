@@ -18,4 +18,8 @@ public class Main {
     private static void master() {
         System.out.println("master...");
     }
+
+    private static void addOne() {
+        System.out.println("add...");
+    }
 }
